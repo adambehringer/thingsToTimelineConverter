@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Things to Timeline 3D' target in the 'Things to Timeline 3D' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif
